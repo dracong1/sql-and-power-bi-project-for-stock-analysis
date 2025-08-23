@@ -4,9 +4,12 @@ Based on SPY (S&P 500 ETF), Circle (CRCL), and Coinbase (COIN) stock prices and 
 Used Excel to clean data and process data for SPY (S&P 500 ETF), Circle (CRCL), and Coinbase (COIN).
 ## SQL
 Used SQL to compute data such as:
-*average volatility and rank them,
-*revenue gained during the period between June 5th and Augest 8th and ranking from highest to lowest for revenue,
+*average volatility and rank them
+
+*revenue gained during the period between June 5th and Augest 8th and ranking from highest to lowest for revenue
+
 *drawdown of each stock,daily returns and daily volatility
+
 *growth
 ## Power bi
 used to show visuals of stock and created a report for the project and compared them.
