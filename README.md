@@ -16,5 +16,8 @@ Used SQL to compute data such as:
 ## Power Bi
 Developed data visualizations of stock performance and prepared an in-depth analytical report. The project contains a comparative analysis of several securities and determining the differences in growth, volatility, and overall market behavior for  SPY (S&P 500 ETF), Circle (CRCL), and Coinbase (COIN).
 
-
+### How to use SQL and compute data
+- insert your data from Excel into the database created in this case it is project
+- go to task and go to import data
+- import excel tables of SPY (S&P 500 ETF), Circle (CRCL), and Coinbase (COIN)
 
